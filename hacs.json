@@ -1,0 +1,7 @@
+{
+  "name": "i-DE Home Assistant Custom Integration",
+  "country": "ES",
+  "domains": ["sensor"],
+  "zip_release": true,
+  "filename": "archive/refs/tags/v0.0.2.zip",
+}
